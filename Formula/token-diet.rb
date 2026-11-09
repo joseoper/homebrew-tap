@@ -3,8 +3,8 @@ class TokenDiet < Formula
 
   desc "Audit token footprint and detect silent context leaks in AI agent workflows"
   homepage "https://github.com/joseoper/token-diet"
-  url "https://github.com/joseoper/token-diet/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "ffea1a83ec99dad45fa0b63301e8c0feade5cc0608778cb10a22ed19154c277f"
+  url "https://github.com/joseoper/token-diet/archive/refs/tags/v0.2.3.tar.gz"
+  sha256 "bf8ffc0926e539458d6a713eee88fa1b39fd479cc618980b2dd2365a24040e4f"
 
   license "MIT"
   head "https://github.com/joseoper/token-diet.git", branch: "main"
