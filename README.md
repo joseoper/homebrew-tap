@@ -1,16 +1,16 @@
-# josephrotts Homebrew Tap
+# joseoper Homebrew Tap
 
-Official Homebrew formula tap for [`token-diet`](https://github.com/josephrotts/token-diet).
+Official Homebrew formula tap for [`token-diet`](https://github.com/joseoper/token-diet).
 
 ## Installation
 
 ```bash
-brew install josephrotts/tap/token-diet
+brew install joseoper/tap/token-diet
 ```
 
 Or explicitly tap the repository:
 
 ```bash
-brew tap josephrotts/tap
+brew tap joseoper/tap
 brew install token-diet
 ```
